@@ -1,1 +1,5 @@
 Class Artist
+
+  
+
+end
